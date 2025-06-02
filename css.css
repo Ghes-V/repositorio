@@ -1,0 +1,17 @@
+header{
+    color:crimson;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font: small-caps;
+}
+section{
+    color:black;
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section2{
+    color:black;
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    font: italic;
+}
